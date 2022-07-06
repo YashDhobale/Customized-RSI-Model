@@ -6,4 +6,4 @@
 
 - The model will help traders keep a watch on the RSI values of all the stocks at one go. They can also get a broader view of the number of stocks within a particular RSI Range. Also they can keep a track of the stocks going below or above a particular RSI level & thus, eliminate the need of individually searching for stocks with a particular RSI value.
 
-P.S - This model only works on Excel 365 or higher versions.
+Note - This model only works on Excel 365 or higher versions.
